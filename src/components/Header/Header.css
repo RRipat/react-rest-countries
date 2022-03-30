@@ -1,0 +1,8 @@
+.nav-ber a{
+    text-decoration: none;
+    margin: 5px 8px;
+    color: aliceblue;
+    padding: 3px 10px;
+    border-radius: 5px;
+    background-image: linear-gradient(rgb(27, 231, 170), rgb(11, 126, 82));
+}
